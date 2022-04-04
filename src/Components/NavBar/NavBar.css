@@ -1,25 +1,31 @@
-/* .header{
-    height:80px;
-    background-color:rgb(159, 207, 159);
-    display:flex;
-    align-items:center;
-    justify-content:space-between;
-    padding-left: 140px;
-    padding-right: 140px;
-    font-family:'Times New Roman', Times, serif;
-    color:white
-    
-} */
-/* ul{
-    margin-left:30%;
-}
-li{
-    margin-left:10%;
-} */
 
+
+.nav-header{
+    background-color: #5781a8;
+}
 .nav{
-    background-color: green;
+    background-color: #5781a8;
 }
 .nav-item a{
 margin:0 20px ;
+}
+.text-edit{
+    font-size: 25px ;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.color-1{
+    color:bisque;
+}
+.color-2{
+    color:aliceblue;
+}
+.touch{
+    border-bottom: 2px solid rgb(214, 140, 29);
+}
+.touch:hover{
+    background-color: rgb(73, 216, 216);
+    padding:5px;
+    border-radius: 5px;
+border:2px solid rgb(224, 197, 197);
 }

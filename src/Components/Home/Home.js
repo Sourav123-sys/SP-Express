@@ -11,7 +11,7 @@ const navigate=useNavigate()
 
     return (
         <>
-        <div className="flex  items-center mt-10 flex-col md:flex-row">
+        <div className="flex  items-center mt-10 flex-col-reverse md:flex-row">
             <div className="px-10">
             <h1 className="text-4xl">Your next phone</h1>
             <h1 className="text-4xl">Your next phone</h1>
