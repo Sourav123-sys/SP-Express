@@ -1,0 +1,18 @@
+.header{
+    height:80px;
+    background-color:rgb(42, 46, 42);
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+    font-family:'Times New Roman', Times, serif;
+    color:white
+    
+}
+ul{
+    margin-left:30%;
+}
+li{
+    margin-left:10%;
+}
