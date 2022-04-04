@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import { Route, Routes } from 'react-router-dom';
 import Home from './Components/Home/Home';
-import Review from './Components/Review/Review';
+import ReviewPage from './Components/Review/ReviewPage';
 import DashBoard from './Components/DashBoard/DashBoard';
 import Blog from './Components/Blog/Blog';
 import About from './Components/About/About';
@@ -14,7 +14,7 @@ function App() {
       <NavBar></NavBar>
           <Routes>
   <Route path="/" element={<Home/>}></Route>
-  <Route path="/review" element={<Review/>}></Route>
+  <Route path="/review" element={<ReviewPage/>}></Route>
   <Route path="/dashboard" element={<DashBoard/>}></Route>
   <Route path="/blog" element={<Blog/>}></Route>
   <Route path="/about" element={<About/>}></Route>
