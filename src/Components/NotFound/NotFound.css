@@ -4,4 +4,7 @@
 
 .not-found{
     font-family: Poppins;
+    text-align: center;
+    margin-top: 10%;
+    font-size: 50px;
 }

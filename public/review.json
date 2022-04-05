@@ -12,7 +12,7 @@
     {
       "id": 2,
       "identity":"King of Chipa-pur",
-      "img": "https://i.ibb.co/kmLmWP5/mem-1.png",
+      "img": "https://scontent.fcgp6-1.fna.fbcdn.net/v/t39.30808-1/241818950_1538292469842081_5836580680667266216_n.jpg?stp=dst-jpg_p100x100&_nc_cat=102&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeFDz6uRQTllEaKmg7MF5H3FTu-eJJmPFKBO754kmY8UoDTzGH6LVQv6UAu5FRF27hd3JsRKDYeRwlwWFKUL8_bp&_nc_ohc=xEwbaY9W7HgAX9h8Fe0&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.fcgp6-1.fna&oh=00_AT9T5rQLmi9goQWAtS4rLra5sGqTkyPZV_zStPxDSiDmPg&oe=6250D155",
       "name": "Sabbir Mahmud",
       "time": "Reviewed in the United Kingdom on January 10, 2021",
       "rating":4.5,
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "img": "https://i.ibb.co/hZWqjd4/mem-2.png",
+      "img": "https://scontent.fcgp6-1.fna.fbcdn.net/v/t39.30808-1/276097936_4962132923901567_4733052065658357793_n.jpg?stp=dst-jpg_p100x100&_nc_cat=101&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeHOBkWYFbfoVTfihlC61Xzz1N36lV3ye5zU3fqVXfJ7nL_EqVs1GUwT6VcY6S50W-lVjInavcT9yzzR9ciohtSF&_nc_ohc=QDcfRR0VasAAX-zbBpL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.fcgp6-1.fna&oh=00_AT-vGisWR5kxk7NWMqwQE0ON4Qu0CLXrGtn0xG45qNgTgg&oe=625085B7",
       "name": "Devid Parvej",
       "time": "Reviewed in the Canada on May 16, 2021",
       "rating":4,
@@ -28,16 +28,16 @@
     },
     {
       "id": 4,
-      "img": "https://i.ibb.co/xf6HCKj/e96ac2-57a5456e6f2a4b9fb7a534a9fe97f745.webp",
-      "name": "Monirujjaman",
+      "img": "https://scontent.fcgp6-1.fna.fbcdn.net/v/t39.30808-1/241795595_815796625707228_2443661126579624942_n.jpg?stp=c30.0.100.100a_dst-jpg_p100x100&_nc_cat=100&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeHho9wTbVUjTGwVN2QfYLf6-mRpgqvxEqr6ZGmCq_ESqhdHOlnrUQaJtNR0Dm_lawnlOTjeUsTnWH26w3-g1LTt&_nc_ohc=0TMDcoN7SSQAX--fWFi&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.fcgp6-1.fna&oh=00_AT9z2nXLUj0tLET_76HD6KhjJNeLifqbgKTQcIeJ9cRIrA&oe=6250C70A",
+      "name": "Ayon Joddr",
       "time": "Reviewed in the India on March 8, 2021",
       "rating":"5",
       "review": "Their delivery service is much faster than others.I recommend it to everyone"
     },
     {
       "id": 5,
-      "img": "https://i.ibb.co/m91RTMg/unknown.jpg",
-      "name": "GM. Rajon",
+      "img": "https://scontent.fcgp6-1.fna.fbcdn.net/v/t39.30808-1/244711113_4194988047290913_945031914637648886_n.jpg?stp=c0.31.100.100a_dst-jpg_p100x100&_nc_cat=107&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeGK7X0WYie6ZpMj0z9vig-eNCPffGxHdwU0I998bEd3BXLwZT_x4rtK1MwVXyTQbMyyZ0vS7WtoIHWlrj981ysQ&_nc_ohc=woJoGff_njYAX9l-hxp&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.fcgp6-1.fna&oh=00_AT8ersA1J4ktUa6m-AYPVVEGBOYsKGpHjLXv7bgjSq6Prg&oe=62501010",
+      "name": "Rashedul Islam Hridoy",
       "time": "Reviewed in the United States on May 25, 2021",
       "rating":4.5,
       "review": "I am really impressed to see their delivery and their clothes."
@@ -48,6 +48,6 @@
       "name": "Ashraful Khan",
       "time": "Reviewed in the United States on February 8, 2022",
       "rating":4.8,
-      "review": "One of the best Online-shop in town.One of the best Online-shop in town.They known for their well response and good behaviour. and quality clothes"
+      "review": "One of the best Online-shop in town.They known for their well response and good behaviour. and quality clothes"
     }
   ]

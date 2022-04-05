@@ -14,8 +14,8 @@ const navigate=useNavigate()
         <>
         <div className="flex  items-center mt-10 flex-col-reverse md:flex-row">
             <div className="px-10">
-            <h1 className="text-5xl text-emerald-800 "style={{fontFamily:'Times New Roman'}}>Make This Eid Charming</h1>
-            <h1 className="text-4xl text-cyan-800 mt-10" style={{fontFamily:'Times New Roman'}}>By Wearing This Punjabi</h1>
+            <h1 className="text-5xl text-emerald-200 "style={{fontFamily:'Times New Roman'}}>Make This Eid Charming</h1>
+            <h1 className="text-4xl text-cyan-200 mt-10" style={{fontFamily:'Times New Roman'}}>By Wearing This Punjabi</h1>
             <p className="text-sm para-edit">Our Punjabi is made of very good quality fabric. We have our own factory. After a lot of experimentation, we have brought for you the best Punjabi of this Eid</p>
             <button className='button-edit mt-10'>Live demo</button>
             </div>

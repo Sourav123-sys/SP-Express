@@ -7,12 +7,18 @@ const ReviewPage = () => {
 const [review] = useReview()
 console.log(review)
     return (
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mt-10 w-2/3 mx-auto md:w-full">
+        <>
+          
+          <div className="review-2">
+  <h1 style={{marginLeft:"20px"}}>Our All Happy Customers</h1>
+      </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mt-10 w-2/3  mx-auto md:w-full">
             { 
             
             review.map(single=> <Review key={single.id}send={single}/> )
              }
      </div>
+     </>
     );
 };
 
