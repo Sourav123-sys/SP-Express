@@ -1,12 +1,14 @@
 import React from 'react';
 import { Area, AreaChart, Bar, BarChart, CartesianGrid, Legend, Line, LineChart, Pie, PieChart, Tooltip, XAxis, YAxis } from 'recharts';
 import useData from '../../Hooks/useData';
-
+import './DashBoard.css'
 const DashBoard = () => {
     const [chart]= useData()
     return (
     <>
-    <div>
+    <h1 className='text-center text-4xl mt-5 color'>DashBoard</h1>
+    <div className='mt-5'>
+    <h1 className='text-4xl text-center mt-5 chart-1'>Invesment vs Revenue</h1>
   <BarChart width={1000} height={350} data={chart}>
         <CartesianGrid strokeDasharray="3 3" />
         <XAxis dataKey="month" />
@@ -19,6 +21,7 @@ const DashBoard = () => {
     </div>
 
     <div>
+    <h1 className='text-4xl text-center mt-5 chart-1'>Month Wise Sell</h1>
     <LineChart width={1000} height={350} data={chart}
   margin={{ top: 5, right: 30, left: 20, bottom: 5 }}>
   <CartesianGrid strokeDasharray="3 3" />
@@ -32,7 +35,7 @@ const DashBoard = () => {
     </div>
 
     <div>
-
+     <h1 className='text-4xl text-center mt-5 chart-1'>Invesment vs Revenue</h1>
     <AreaChart width={1000} height={350} data={chart}
   margin={{ top: 10, right: 30, left: 0, bottom: 0 }}>
   <defs>
@@ -55,6 +58,7 @@ const DashBoard = () => {
     </div>
 
     <div>
+    <h1 className='text-4xl text-center mt-5 chart-1'>Invesment vs Revenue</h1>
     <PieChart width={1000} height={350}>
   <Pie data={chart} dataKey="investment"  cx="50%" cy="50%" outerRadius={50} fill="#8884d8" />
   <Pie data={chart} dataKey="revenue"  cx="50%" cy="50%" innerRadius={60} outerRadius={80} fill="#82ca9d" label />

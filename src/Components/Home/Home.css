@@ -56,6 +56,16 @@ border:5px solid rgb(105, 92, 92)
     color:white;
     
 }
+
+.part-1{
+    border:10px solid rgb(183, 226, 200);
+    margin-left: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px 2px;
+    background-color:rgb(183, 226, 200);
+    font-family:'Times New Roman', Times, serif
+}
 @media (max-width: 600px) {
     .review-1{
         font-size:20px;
