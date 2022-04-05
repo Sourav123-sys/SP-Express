@@ -24,9 +24,9 @@
     font-family: 'Courier New', Courier, monospace;
 }
 .button-edit:hover{
-background-color:rgb(28, 176, 202);
-border:2px solid green;
-color:aliceblue;
+background-color:rgb(56, 44, 52);
+border:2px solid rgb(15, 120, 240);
+color:rgb(4, 120, 221);
 }
 
 .review-1{
@@ -63,8 +63,8 @@ font-family: 'Courier New', Courier, monospace;
 border:5px solid rgb(11, 165, 226)
 }
 .happy:hover{
-    background-color:rgb(21, 134, 179);
-    color:white;
+    background-color:rgb(13, 146, 106);
+    color:rgb(54, 6, 6);
     
 }
 
@@ -93,6 +93,10 @@ border:5px solid rgb(11, 165, 226)
     .happy{
         width:80%;
         margin-left: 10%;
+    }
+    .title-1{
+        font-size:35px;
+        margin-top: 20px;
     }
 
 }
