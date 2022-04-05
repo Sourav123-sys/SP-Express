@@ -49,5 +49,29 @@
       "time": "Reviewed in the United States on February 8, 2022",
       "rating":4.8,
       "review": "One of the best Online-shop in town.They known for their well response and good behaviour. and quality clothes"
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/55jHjVX/ashraful.jpg",
+      "name": "Ashraful Hossain",
+      "time": "Reviewed in the Germany on February 18, 2022",
+      "rating":4.8,
+      "review": "Best price,best product.I just love it"
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/55jHjVX/ashraful.jpg",
+      "name": "Samsul Anwar Sanjid",
+      "time": "Reviewed in the Bangladesh on February 22, 2022",
+      "rating":4.8,
+      "review": "Nice color.Fast delivery"
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/55jHjVX/ashraful.jpg",
+      "name": "Promi Chowdhury",
+      "time": "Reviewed in the Bangladesh on March 11, 2022",
+      "rating":4.8,
+      "review": "Fast delivary, no extra money. outstanding serving. I'll must recommend to my to buy from here. Thank you."
     }
   ]

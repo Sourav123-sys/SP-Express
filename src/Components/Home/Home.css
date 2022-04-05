@@ -79,7 +79,7 @@ border:5px solid rgb(11, 165, 226)
     margin-bottom: 5%;
     font-family:'Times New Roman', Times, serif
 }
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     .review-1{
         font-size:20px;
         margin-left: 10%;
