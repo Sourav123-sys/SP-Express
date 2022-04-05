@@ -1,0 +1,28 @@
+.about{
+    color:aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding:8%
+}
+.about-border{
+    border: 1px solid rgb(4, 230, 218);
+    margin:10%;
+    border-radius:5px ;
+    box-shadow: 5px 0px 0px  5px rgb(4, 230, 218);
+}
+.about-head{
+    margin-left: 30%;
+    margin-top: 5%;
+    font-family:'Courier New', Courier, monospace;
+    color:burlywood;
+    
+}
+@media (max-width: 768px){
+    .about-head{
+        margin-left: 10%;
+        margin-top: 5%;
+        font-family:'Courier New', Courier, monospace;
+        color:burlywood;
+        
+    }
+}
